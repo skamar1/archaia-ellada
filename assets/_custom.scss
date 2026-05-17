@@ -1,0 +1,521 @@
+// ============================================================
+// Archaia Ellada – Custom Design
+// Palette: marble white, ochre gold, deep terracotta, olive
+// ============================================================
+
+// --- Variables ---
+$color-primary:    #7c4b2a;   // terracotta / brick
+$color-accent:     #c49a3c;   // ochre / gold
+$color-text:       #2c1f0e;   // dark brown ink
+$color-bg:         #faf7f2;   // warm parchment
+$color-bg-dark:    #2c1f0e;   // dark nav
+$color-muted:      #8a7560;   // muted olive-gray
+$color-border:     #d9cdb8;   // warm border
+$font-serif:       'Georgia', 'Times New Roman', serif;
+
+// --- Breadcrumbs ---
+.breadcrumb {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.3rem;
+  font-family: $font-serif;
+  font-size: 0.82rem;
+  color: $color-muted;
+  margin-bottom: 1.5rem;
+  padding: 0.5rem 0.75rem;
+  background: mix($color-bg, $color-accent, 94%);
+  border-radius: 4px;
+  border-left: 3px solid $color-accent;
+
+  a {
+    color: $color-primary;
+    text-decoration: none;
+    &:hover { color: $color-accent; text-decoration: underline; }
+  }
+
+  .breadcrumb-sep { color: $color-muted; opacity: 0.6; }
+  .breadcrumb-current { color: $color-text; font-weight: bold; }
+}
+
+// --- Base ---
+body {
+  background: $color-bg;
+  color: $color-text;
+}
+
+// --- Book theme overrides ---
+.book-page {
+  font-family: $font-serif;
+  font-size: 1.05rem;
+  line-height: 1.9;
+  color: $color-text;
+  max-width: 780px;
+}
+
+// --- Typography ---
+h1, h2, h3, h4 {
+  font-family: $font-serif;
+  color: $color-primary;
+  letter-spacing: 0.02em;
+}
+
+h1 {
+  font-size: 1.8rem;
+  border-bottom: 2px solid $color-accent;
+  padding-bottom: 0.4rem;
+  margin-bottom: 1.2rem;
+}
+
+h2 {
+  font-size: 1.35rem;
+  margin-top: 2rem;
+  color: $color-primary;
+}
+
+h3 {
+  font-size: 1.1rem;
+  color: darken($color-primary, 5%);
+}
+
+// Bold text - more prominent
+strong, b {
+  color: $color-primary;
+  font-weight: 700;
+}
+
+// Italic / quotes
+em, i {
+  color: darken($color-muted, 10%);
+}
+
+// Blockquotes (long Greek quotes)
+blockquote {
+  border-left: 4px solid $color-accent;
+  background: mix($color-bg, $color-accent, 92%);
+  padding: 1rem 1.5rem;
+  margin: 1.5rem 0;
+  border-radius: 0 4px 4px 0;
+  font-style: italic;
+  color: darken($color-text, 5%);
+}
+
+// Footnote reference badges (clickable)
+sup.fn-ref {
+  background: $color-primary;
+  color: #fff;
+  padding: 1px 5px;
+  border-radius: 3px;
+  font-size: 0.68rem;
+  margin: 0 2px;
+  font-weight: bold;
+  vertical-align: super;
+  cursor: pointer;
+  user-select: none;
+  transition: background 0.15s;
+  &:hover, &.fn-active { background: $color-accent; color: $color-bg-dark; }
+}
+
+// Footnotes list at bottom
+.footnotes-list {
+  font-size: 0.82rem;
+  color: $color-muted;
+  line-height: 1.6;
+  p { margin: 0.3rem 0; }
+  sup { background: $color-primary; color: #fff; padding: 1px 4px; border-radius: 2px; font-size: 0.65rem; }
+}
+
+// Plain sup (non-footnote)
+sup {
+  font-size: 0;  // hide the surrounding brackets
+  a, &:not(:has(a)) {
+    background: $color-primary;
+    color: #fff;
+    padding: 1px 6px;
+    border-radius: 3px;
+    font-size: 0.68rem;
+    text-decoration: none;
+    margin: 0 2px;
+    font-weight: bold;
+    vertical-align: super;
+    display: inline-block;
+    line-height: 1.4;
+    a { text-decoration: none; color: #fff !important; }
+    &:hover { background: $color-accent; }
+  }
+  // Plain sup[N] (no anchor)
+  font-size: 0.68rem;
+  background: $color-primary;
+  color: #fff;
+  padding: 1px 5px;
+  border-radius: 3px;
+  margin: 0 2px;
+  font-weight: bold;
+  vertical-align: super;
+}
+
+// Footnote list at bottom
+.footnotes {
+  border-top: 1px solid $color-border;
+  margin-top: 3rem;
+  padding-top: 1rem;
+  font-size: 0.85rem;
+  color: $color-muted;
+  ol { padding-left: 1.5rem; }
+}
+
+// --- Sidebar / Nav ---
+.book-menu {
+  background: $color-bg-dark;
+
+  nav {
+    // Default link style
+    a {
+      color: #d9cdb8;
+      font-family: $font-serif;
+      font-size: 0.88rem;
+
+      &:hover {
+        color: $color-accent;
+        background: rgba(196, 154, 60, 0.1);
+      }
+    }
+
+    a.active {
+      color: $color-accent !important;
+      font-weight: bold;
+    }
+
+    // ── Top-level list ──────────────────────────────────
+    > ul {
+      padding: 0.5rem 0;
+
+      > li {
+        margin-bottom: 1px;
+
+        // Top-level LEAF page (direct <a> child)
+        > a {
+          display: block;
+          padding: 5px 12px 5px 14px;
+          font-size: 0.87rem;
+          color: #d9cdb8;
+          border-left: 3px solid transparent;
+
+          &:hover { border-left-color: rgba($color-accent, 0.4); }
+          &.active {
+            border-left-color: $color-accent;
+            color: $color-accent !important;
+            font-weight: bold;
+          }
+        }
+
+        // Top-level SECTION header (has a toggle label)
+        > label {
+          display: flex;
+          align-items: center;
+          justify-content: space-between;
+          margin-top: 1rem;
+          padding: 4px 10px 4px 12px;
+          border-top: 1px solid rgba(196, 154, 60, 0.18);
+
+          > a {
+            font-size: 0.76rem;
+            font-weight: bold;
+            text-transform: uppercase;
+            letter-spacing: 0.10em;
+            color: $color-accent !important;
+            padding: 0;
+            background: none;
+
+            &:hover {
+              color: lighten($color-accent, 15%) !important;
+              background: none;
+            }
+            &.active { color: #fff !important; }
+          }
+
+          .book-icon { opacity: 0.55; width: 14px; height: 14px; }
+        }
+
+        // First top-level section: no top border/margin
+        &:first-child > label { margin-top: 0.3rem; border-top: none; }
+
+        // Children (nested ul under a section)
+        > ul {
+          margin: 2px 0 4px 14px;
+          padding-left: 0;
+          border-left: 2px solid rgba(196, 154, 60, 0.22);
+
+          > li > a {
+            display: block;
+            padding: 4px 8px 4px 10px;
+            font-size: 0.84rem;
+            color: #c2b498;
+            border-left: 2px solid transparent;
+            margin-left: -2px;
+
+            &:hover {
+              color: $color-accent;
+              border-left-color: rgba($color-accent, 0.4);
+            }
+            &.active {
+              color: $color-accent !important;
+              font-weight: bold;
+              border-left-color: $color-accent;
+            }
+          }
+
+          // 3rd level (grand-children)
+          > li > ul {
+            margin-left: 10px;
+            border-left: 1px solid rgba(196, 154, 60, 0.12);
+
+            > li > a {
+              font-size: 0.82rem;
+              color: #a8977e;
+              padding: 3px 8px 3px 10px;
+            }
+          }
+        }
+      }
+    }
+
+    .book-section-flat > a { color: $color-accent !important; font-weight: bold; }
+  }
+
+  // Title in sidebar
+  .book-brand {
+    background: darken($color-bg-dark, 3%);
+    border-bottom: 1px solid rgba(196, 154, 60, 0.3);
+
+    a {
+      color: $color-accent !important;
+      font-family: $font-serif;
+      font-size: 1.1rem;
+      font-weight: bold;
+      letter-spacing: 0.05em;
+    }
+  }
+
+  // Search box
+  input[type="search"] {
+    background: rgba(255,255,255,0.08);
+    border: 1px solid rgba(196,154,60,0.3);
+    color: #d9cdb8;
+    &::placeholder { color: $color-muted; }
+  }
+}
+
+// --- Table of Contents ---
+.book-toc {
+  font-family: $font-serif;
+  font-size: 0.82rem;
+
+  nav > ul > li > a {
+    color: $color-primary;
+    font-weight: bold;
+  }
+
+  a {
+    color: $color-muted;
+    &:hover { color: $color-primary; }
+  }
+}
+
+// --- Images ---
+.book-page img {
+  max-width: 100%;
+  border: 3px solid $color-border;
+  border-radius: 4px;
+  box-shadow: 0 2px 8px rgba(44,31,14,0.15);
+  margin: 1rem auto;
+  display: block;
+}
+
+// --- Links ---
+.book-page a {
+  color: $color-primary;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+
+  &:hover {
+    color: $color-accent;
+  }
+}
+
+// --- Header bar ---
+.book-header {
+  background: $color-bg;
+  border-bottom: 1px solid $color-border;
+
+  label { color: $color-primary; }
+}
+
+// --- Homepage hero ---
+.hero-section {
+  min-height: 90vh;
+  background:
+    linear-gradient(to right, rgba(44,31,14,0.85) 40%, rgba(44,31,14,0.3) 100%),
+    url('/images/hero.jpg') center/cover no-repeat;
+  display: flex;
+  align-items: center;
+  padding: 4rem 6%;
+  margin: -2rem -2rem 2rem;
+
+  .hero-content {
+    max-width: 520px;
+    color: #faf7f2;
+  }
+
+  h1 {
+    font-size: clamp(2.5rem, 6vw, 4rem);
+    color: $color-accent !important;
+    border-bottom: 2px solid rgba(196,154,60,0.4);
+    line-height: 1.15;
+    margin-bottom: 1rem;
+    letter-spacing: 0.04em;
+  }
+
+  .hero-subtitle {
+    font-size: 1.1rem;
+    color: rgba(250,247,242,0.85);
+    margin-bottom: 0.5rem;
+    font-style: italic;
+  }
+
+  .hero-tagline {
+    font-size: 0.9rem;
+    color: rgba(196,154,60,0.8);
+    margin-bottom: 2rem;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+  }
+
+  .hero-btn {
+    display: inline-block;
+    background: $color-accent;
+    color: $color-bg-dark !important;
+    padding: 0.75rem 2rem;
+    border-radius: 3px;
+    font-weight: bold;
+    font-size: 1rem;
+    text-decoration: none !important;
+    letter-spacing: 0.05em;
+    transition: background 0.2s;
+
+    &:hover {
+      background: lighten($color-accent, 10%);
+    }
+  }
+}
+
+// --- Page footer nav ---
+.book-footer {
+  border-top: 1px solid $color-border;
+  color: $color-muted;
+  font-size: 0.85rem;
+}
+
+// --- Homepage sections ---
+.home-sections {
+  padding: 2rem 6%;
+  max-width: 1100px;
+  margin: 0 auto;
+
+  h2 {
+    font-size: 1.5rem;
+    color: $color-primary;
+    border-bottom: 2px solid $color-accent;
+    padding-bottom: 0.4rem;
+    margin-bottom: 1.5rem;
+  }
+}
+
+.home-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 1.5rem;
+}
+
+.home-card {
+  background: #fff;
+  border: 1px solid $color-border;
+  border-top: 3px solid $color-accent;
+  border-radius: 4px;
+  padding: 1.25rem 1.5rem;
+  transition: box-shadow 0.2s, transform 0.2s;
+
+  &:hover {
+    box-shadow: 0 4px 16px rgba(44,31,14,0.12);
+    transform: translateY(-2px);
+  }
+
+  h3 {
+    margin: 0 0 0.5rem;
+    font-size: 1rem;
+    a {
+      color: $color-primary;
+      text-decoration: none;
+      &:hover { color: $color-accent; }
+    }
+  }
+
+  p {
+    margin: 0;
+    font-size: 0.88rem;
+    color: $color-muted;
+    line-height: 1.5;
+    font-family: sans-serif;
+  }
+}
+
+// Full-width homepage (no sidebar, no toc)
+body.book-kind-home {
+  .container {
+    display: block !important;
+  }
+  .book-menu,
+  .book-toc,
+  .book-header {
+    display: none !important;
+  }
+  .book-page {
+    max-width: 100% !important;
+    width: 100% !important;
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+  .hero-section {
+    margin: 0 !important;
+    min-height: 100vh;
+  }
+}
+
+// --- YouTube embeds ---
+.video-wrapper {
+  position: relative;
+  padding-bottom: 56.25%; // 16:9
+  height: 0;
+  overflow: hidden;
+  margin: 1.5rem 0;
+  border-radius: 4px;
+  border: 2px solid $color-border;
+
+  iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: none;
+  }
+}
+
+// --- Scrollbar (webkit) ---
+::-webkit-scrollbar { width: 6px; }
+::-webkit-scrollbar-track { background: $color-bg; }
+::-webkit-scrollbar-thumb {
+  background: $color-border;
+  border-radius: 3px;
+  &:hover { background: $color-muted; }
+}

@@ -1,0 +1,68 @@
+<div id="fn-popup" style="display:none;position:fixed;z-index:9999;background:#2c1f0e;color:#faf7f2;padding:12px 16px;border-radius:5px;max-width:420px;font-size:0.85rem;line-height:1.5;box-shadow:0 4px 20px rgba(0,0,0,0.4);border-left:3px solid #c49a3c;"></div>
+
+<script>
+(function() {
+  var popup = document.getElementById('fn-popup');
+  var activeRef = null;
+
+  function showPopup(el) {
+    var text = el.getAttribute('data-fn');
+    if (!text) return;
+    popup.textContent = text;
+    popup.style.display = 'block';
+    positionPopup(el);
+    activeRef = el;
+    el.classList.add('fn-active');
+  }
+
+  function hidePopup() {
+    popup.style.display = 'none';
+    if (activeRef) {
+      activeRef.classList.remove('fn-active');
+      activeRef = null;
+    }
+  }
+
+  function positionPopup(el) {
+    var rect = el.getBoundingClientRect();
+    var pw = 420;
+    // position:fixed → coordinates are viewport-relative, NO scroll offset
+    var left = rect.left;
+    var top = rect.bottom + 6;
+
+    // Keep within viewport horizontally
+    if (left + pw > window.innerWidth - 16) {
+      left = window.innerWidth - pw - 16;
+    }
+    if (left < 8) left = 8;
+
+    // If popup would go below viewport, show it above the ref instead
+    var ph = 100; // estimated height
+    if (top + ph > window.innerHeight - 8) {
+      top = rect.top - ph - 6;
+    }
+    if (top < 8) top = 8;
+
+    popup.style.left = left + 'px';
+    popup.style.top = top + 'px';
+  }
+
+  document.addEventListener('click', function(e) {
+    var ref = e.target.closest('sup.fn-ref');
+    if (ref) {
+      e.preventDefault();
+      if (activeRef === ref) {
+        hidePopup();
+      } else {
+        showPopup(ref);
+      }
+    } else if (!popup.contains(e.target)) {
+      hidePopup();
+    }
+  });
+
+  document.addEventListener('keydown', function(e) {
+    if (e.key === 'Escape') hidePopup();
+  });
+})();
+</script>

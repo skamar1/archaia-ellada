@@ -1,0 +1,27 @@
+baseURL = "https://archaia-ellada.gr/"
+languageCode = "el"
+title = "Αρχαία Ελλάδα"
+theme = "book"
+
+[params]
+  BookTheme = "light"
+  BookToC = true
+  BookFlatSection = false
+  BookSearch = true
+  BookRepo = ""
+  BookMenuBundle = ""
+  BookSection = "docs"
+  BookCollapseSection = true
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      footnote = true
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 4
+
+[taxonomies]
+  tag = "tags"

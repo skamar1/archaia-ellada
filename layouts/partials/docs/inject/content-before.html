@@ -1,0 +1,16 @@
+{{- $p := .Parent -}}
+{{- if and $p (ne $p.RelPermalink "/") -}}
+<nav class="breadcrumb" aria-label="breadcrumb">
+  {{- $gp := $p.Parent -}}
+  {{- if and $gp (ne $gp.RelPermalink "/") -}}
+    {{- $ggp := $gp.Parent -}}
+    {{- if and $ggp (ne $ggp.RelPermalink "/") -}}
+      <a href="{{ $ggp.RelPermalink }}">{{ $ggp.Title }}</a><span class="breadcrumb-sep">›</span>
+    {{- end -}}
+    <a href="{{ $gp.RelPermalink }}">{{ $gp.Title }}</a><span class="breadcrumb-sep">›</span>
+  {{- end -}}
+  <a href="{{ $p.RelPermalink }}">{{ $p.Title }}</a>
+  <span class="breadcrumb-sep">›</span>
+  <span class="breadcrumb-current">{{ .Title }}</span>
+</nav>
+{{- end -}}
