@@ -7,7 +7,7 @@ weight: 30
 
 *«Μελέτη πάντα καθαιρεί»* <sup class="fn-ref" data-fn="Περίανδρος, κατά τον Κλήμη Αλεξανδρείας, «Στρωματείς», Α΄, XIV, σελ. 258." tabindex="0">[1]</sup>
 
-![](https://archaia-ellada.gr/wp-content/uploads/2022/12/EmbeddedImage-21.jpg)
+![](/wp-content/uploads/2022/12/EmbeddedImage-21.jpg)
 
 *Η Κυβέλη – Χουμπάμπα με τα σείστρα.*
 

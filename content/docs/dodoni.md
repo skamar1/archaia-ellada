@@ -11,7 +11,7 @@ weight: 40
 
 **ΜΑΝΤΕΙΟ**
 
-![](https://archaia-ellada.gr/wp-content/uploads/2022/12/EmbeddedImage4-26.jpg)
+![](/wp-content/uploads/2022/12/EmbeddedImage4-26.jpg)
 
 ***ΑΜΜΟΥΝ ΡΑ – ΔΩΔΩΝΑΙΟΣ – ΠΕΛΑΣΓΙΚΟΣ…***
 
@@ -25,7 +25,7 @@ weight: 40
 ***«Δικοί μας»** [των πουλιών]**«είναι ο Άμμων, οι Δελφοί,*** **<sup class="fn-ref" data-fn="Ο γνωστός Μύθος των δυο αετών που συναντήθηκαν πάνω από τους Δελφούς." tabindex="0">[2]</sup>
 *η Δωδώνη, ο Φοίβος Απόλλων. Πρώτα από τα πουλιά ξεκίνησαν και μετά επιδόθηκαν στο έργο τους».*** <sup class="fn-ref" data-fn="Όπως μνημονεύεται στη Σούδα, λήμμα «Άμμων»" tabindex="0">[3]</sup>
 
-![](https://archaia-ellada.gr/wp-content/uploads/2022/12/EmbeddedImage2-17.jpg)
+![](/wp-content/uploads/2022/12/EmbeddedImage2-17.jpg)
 
 Fertility figure, from Jerusalem, Israel. Terracotta, Iron Age II
 
@@ -45,11 +45,11 @@ Fertility figure, from Jerusalem, Israel. Terracotta, Iron Age II
 
 ***η Γη δίνει καρπούς, τιμάτε λοιπόν τη Μητέρα Γη»*** <sup class="fn-ref" data-fn="Παυσανίας, Φωκικά, 12, 10" tabindex="0">[7]</sup>
 
-![](https://archaia-ellada.gr/wp-content/uploads/2022/12/EmbeddedImage-28.jpg)
+![](/wp-content/uploads/2022/12/EmbeddedImage-28.jpg)
 
 Ο Αχιλλέας προσεύχεται στον Δωδωναίο Πελασγικό Δία
 
-![](https://archaia-ellada.gr/wp-content/uploads/2022/12/EmbeddedImage4-15.jpg)
+![](/wp-content/uploads/2022/12/EmbeddedImage4-15.jpg)
 
 *Δηλαδή τον Αμμούν – Ρα…*
 
@@ -63,8 +63,8 @@ Fertility figure, from Jerusalem, Israel. Terracotta, Iron Age II
  ***«Διωναίη Αφροδίτη»*** λέει ο Ορφέας,  <sup class="fn-ref" data-fn="Ορφέα Αργοναυτικά, στ. 1324" tabindex="0">[14]</sup>
 ***Διώνη=Αφροδίτη***, λέει και η Σούδα.
 
-![](https://archaia-ellada.gr/wp-content/uploads/2022/12/EmbeddedImage5-17.jpg)
-![](https://archaia-ellada.gr/wp-content/uploads/2022/12/EmbeddedImage6-16.jpg)
+![](/wp-content/uploads/2022/12/EmbeddedImage5-17.jpg)
+![](/wp-content/uploads/2022/12/EmbeddedImage6-16.jpg)
 
 *Αστάρτες – περιστέρια*
 
@@ -82,7 +82,7 @@ Fertility figure, from Jerusalem, Israel. Terracotta, Iron Age II
 
 Θαλασσινή χώρα η Ελλάδα, όμως, το θαλασσινό της πνεύμα ήταν ο ***«Πρωτεύς, ο Αιγύπτιος θεός»*** **<sup class="fn-ref" data-fn="Φιλόστρατος, «Τα ες Τυανέα Απολλώνιον» Α’, IV." tabindex="0">[19]</sup>**Ούτε εκεί πρωτοτυπήσαμε… Ήταν λέει κάποιος ονόματι ***Κέτης,***που έζησε την εποχή των Τρωικών, και έγινε βασιλιάς στην Αίγυπτο. Η εντύπωση των μεταμορφώσεων του θεού, δημιουργήθηκε από το έθιμο να φοράνε οι Φαραώ μουτσούνες ζώων. <sup class="fn-ref" data-fn="Διόδωρος Σικελιώτης, Α΄, β΄, 62" tabindex="0">[20]</sup>
 
-![](https://archaia-ellada.gr/wp-content/uploads/2022/12/EmbeddedImage7-15.jpg)
+![](/wp-content/uploads/2022/12/EmbeddedImage7-15.jpg)
 
 *Αστάρτη-Αφροδίτη-Διώνη*
 
@@ -103,7 +103,7 @@ Fertility figure, from Jerusalem, Israel. Terracotta, Iron Age II
 
 Εθνική θρησκεία, *ε**;***
 
-![](https://archaia-ellada.gr/wp-content/uploads/2022/12/EmbeddedImage8-15.jpg)
+![](/wp-content/uploads/2022/12/EmbeddedImage8-15.jpg)
 
 ΑΤΑΡΓΑΤΗ
 

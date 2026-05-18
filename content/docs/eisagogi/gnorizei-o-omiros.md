@@ -5,7 +5,7 @@ weight: 10
 
 **ΓΝΩΡΙΖΕ Ο Ο ΟΜΗΡΟΣ ΤΟ ΔΩΔΕΚΑΘΕΟ;**
 
-![](https://archaia-ellada.gr/wp-content/uploads/2022/12/EmbeddedImage-6.jpg)
+![](/wp-content/uploads/2022/12/EmbeddedImage-6.jpg)
 
 *Που ακουμπάει αυτός ο θεός; Φυσικά σε έναν … Φοίνικα,*
 

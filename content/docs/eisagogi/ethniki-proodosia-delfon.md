@@ -3,7 +3,7 @@ title: "Η ΕΘΝΙΚΗ ΠΡΟΔΟΣΙΑ ΤΟΥ ΜΑΝΤΕΙΟΥ ΤΩΝ ΔΕΛΦ
 weight: 70
 ---
 
-![](https://archaia-ellada.gr/wp-content/uploads/2022/11/EmbeddedImage-24.jpg)
+![](/wp-content/uploads/2022/11/EmbeddedImage-24.jpg)
 
 *Ο Απόλλων και ο Ηρακλής διαπληκτίζονται για τον Μαντικό Τρίποδα των Δελφών.*
 

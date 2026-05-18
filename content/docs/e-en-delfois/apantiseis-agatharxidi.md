@@ -3,7 +3,7 @@ title: "Μερικές απαντήσεις στον Ανώνυμο Αγαθαρ
 weight: 0
 ---
 
-![](https://archaia-ellada.gr/wp-content/uploads/2022/12/EmbeddedImage-5.jpg)
+![](/wp-content/uploads/2022/12/EmbeddedImage-5.jpg)
 
 Δήλος.
 

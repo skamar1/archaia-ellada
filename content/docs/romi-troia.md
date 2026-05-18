@@ -5,7 +5,7 @@ weight: 60
 
 **Ρώμη-Τροία**
 
-![](https://archaia-ellada.gr/wp-content/uploads/2022/12/EmbeddedImage-27.jpg)
+![](/wp-content/uploads/2022/12/EmbeddedImage-27.jpg)
 
 *Όπως δείχνει αυτό το Χιττιτικό ανάγλυφο*
 
@@ -23,7 +23,7 @@ weight: 60
 
 *Ιουλιανός ο Παραβάτης, Ρωμαίος Αυτοκράτορας, απόγονος Τρώων προσφύγων…*
 
-![](https://archaia-ellada.gr/wp-content/uploads/2022/12/EmbeddedImage1-13.jpg)
+![](/wp-content/uploads/2022/12/EmbeddedImage1-13.jpg)
 
 *Μνημείο από την Αρχαία Ρώμη. Μίξη ‘Εθνικών” και Ιουδαϊκών στοιχείων…*
 
@@ -68,7 +68,7 @@ weight: 60
 
 Συνοπτικά, ήταν ένα μάζωμα αρχαιότατων αποίκων από την Μέση Ανατολή και τη Μικρά Ασία, και προσφύγων ίδιας προέλευσης, ηττημένων στον Τρωικό πόλεμο, που υπό την ευκαιριακή ηγεσία Ελλήνων προδοτών, ενώθηκαν με τους ντόπιους.
 
-![](https://archaia-ellada.gr/wp-content/uploads/2022/12/EmbeddedImage2-23.jpg)
+![](/wp-content/uploads/2022/12/EmbeddedImage2-23.jpg)
 
 *Ένας Φαρισαίος και ένας Ρωμαίος Αυτοκράτορας ως αρχιερέας.*
 
@@ -78,11 +78,11 @@ weight: 60
 
 1
 
-![](https://archaia-ellada.gr/wp-content/uploads/2022/12/EmbeddedImage3-21.jpg)
+![](/wp-content/uploads/2022/12/EmbeddedImage3-21.jpg)
 
 Μαξεντιος
 
-![](https://archaia-ellada.gr/wp-content/uploads/2022/12/EmbeddedImage4-20.jpg)
+![](/wp-content/uploads/2022/12/EmbeddedImage4-20.jpg)
 
 Οι διάφορες αποδιδόμενες καταγωγές έπαιζαν ρόλο στην πολιτική σχέση Ρωμαίων – Ελλήνων κατά τη Ρωμαιοκρατία -και κάνουν την ίδια δουλειά σήμερα, τονίζοντας ή αποδυναμώνοντας την *«Ευρωπαϊκή ιδέα»* που τότε την έλεγαν *“Pax Romana”.*
 
@@ -92,15 +92,15 @@ weight: 60
 
 Η πόλη πήρε θέση στους Ελληνικούς Μύθους και Ιστορία, μόνο μετά από την Ρωμαϊκή κατάκτηση. Η αδιαφορία αυτή δεν μπορεί να δικαιολογηθεί μόνο από το ότι ήταν ασήμαντη τότε. *(άλλωστε, την εποχή του Θουκυδίδη είχε ήδη σχηματίσει εκτεταμένο κράτος)* Οι αποικίες κράταγαν πάντα επαφή με τις Μητροπόλεις τους. Αν η Ρώμη ήταν Ελληνική αποικία, όπως ισχυρίζονται, θα είχε όχι μόνο μνημονευθεί, αλλά και θα είχε πάρει ενεργό μέρος στα δρώμενα της κυρίως Ελλάδας, όπως η υπόλοιπη ***«Μεγάλη Ελλάς».*** Άλλωστε, οι Ελληνικές επιρροές στην πρώιμη Ρώμη είναι σαφείς. Άρα, δεν δικαιολογείται άγνοια εκ μέρους των Ελλήνων, εκτός αν τους θεωρούσαν ξένους. Ούτε δικαιολογείται το ότι δήθεν οι Ρωμαίοι *«έπαψαν»* να μιλάνε Ελληνικά, μια που ήταν σε συνεχή επαφή με αυτά.
 
-![](https://archaia-ellada.gr/wp-content/uploads/2022/12/EmbeddedImage5-22.jpg)
+![](/wp-content/uploads/2022/12/EmbeddedImage5-22.jpg)
 
 *Ρωμαϊκές επιγραφές που επιβεβαιώνουν την καταγωγή της πόλης από τους Τρώες του Αινεία*
 
-![](https://archaia-ellada.gr/wp-content/uploads/2022/12/EmbeddedImage6-21.jpg)
+![](/wp-content/uploads/2022/12/EmbeddedImage6-21.jpg)
 
 *Και ένα από τα πολλά Ρωμαϊκά νομίσματα που απεικονίζουν τον Αινεία να φεύγει από την Τροία*
 
-![](https://archaia-ellada.gr/wp-content/uploads/2022/12/EmbeddedImage.7jpg-2.jpg)
+![](/wp-content/uploads/2022/12/EmbeddedImage.7jpg-2.jpg)
 
 Η Αφροδιτη και ο Αινείας (από την άλλη μεριά)
 
@@ -162,7 +162,7 @@ weight: 60
 
 *Αυτά λέγονταν από όσους πίστευαν πως οι Ρωμαίοι ήταν Έλληνες!!!*
 
-![](https://archaia-ellada.gr/wp-content/uploads/2022/12/EmbeddedImage8-20.jpg)
+![](/wp-content/uploads/2022/12/EmbeddedImage8-20.jpg)
 
 F
 
@@ -184,7 +184,7 @@ F
 
 *αυτό το Ετρουσκικό, κάτω, είναι καταφανώς απομιμήσεις Αιγυπτιακού προτύπου.*
 
-![](https://archaia-ellada.gr/wp-content/uploads/2022/12/EmbeddedImage9-16.jpg)
+![](/wp-content/uploads/2022/12/EmbeddedImage9-16.jpg)
 
 ***Εύανδρος και Πάλλας***
 
@@ -209,7 +209,7 @@ F
 Το Παλλάντιον ανακηρύχθηκε Μητρόπολη της Ρώμης τον Β΄αι. μΧ., από τον ***Αντωνίνο τον Ευσεβή***, *(138-161 μΧ.)* **[20]** <sup class="fn-ref" data-fn="Εγκυκλοπαίδεια Ελευθερουδάκη, λήμμα «Παλλάντιον» και Παυσανίας, «Αρκαδικά» 43, 1-2." tabindex="0">[20]</sup>
 *(Δηλ. η Ρώμη θεωρήθηκε επίσημα… Αρκαδική αποικία)* Προηγουμένως, για 1.500 χρόνια, *(πτώση της Τροίας)* και ειδικά πριν κατακτήσουν την Ελλάδα, οι Ρωμαίοι *αγνοούσαν* την *«καταγωγή»* τους… Πίστευαν πως είναι απόγονοι Τρώων, και **έβλεπαν τη σύγκρουσή τους με τους Έλληνες σαν εκστρατεία εκδίκησης**. Φυσικά, είχαν επαφή με τον θεό των Τρώων προγόνων τους, και με το Μαντείο του στους Δελφούς, τουλάχιστο από τον 4ο αι π. Χ. Κανείς δεν τους είπε από τότε πως ήταν Έλληνες –τόσοι και τόσοι *«Προφήτες»* Μάντεις και Πυθίες… Η *«Ελληνική»* τους καταγωγή, χρειάστηκε αιώνες για να διαδοθεί με τους αυταπόδεικτα πλαστούς Μύθους που αναφέραμε, μόλις από τον 1ο αι πΧ.
 
-![](https://archaia-ellada.gr/wp-content/uploads/2022/12/EmbeddedImage10-12.jpg)
+![](/wp-content/uploads/2022/12/EmbeddedImage10-12.jpg)
 
 *Ο Αντίνοος*
 
@@ -233,11 +233,11 @@ F
 
 Οι Μύθοι αυτοί αγγίζουν τα όρια του γελοίου. Αποδεχόμαστε ένα Μύθο μόνο αν επαληθεύεται από κάποιο ιστορικό γεγονός ή αρχαιολογικό εύρημα, ή έστω, δεν αντιφάσκει με αυτά. ***Δεν δημιουργούμε ιστορία από τους Μύθους, την επιβεβαιώνουμε ή την αρχίζουμε με αυτούς, αν υπάρχει λογική σειρά.***
 
-![](https://archaia-ellada.gr/wp-content/uploads/2022/12/EmbeddedImage11-13.jpg)
+![](/wp-content/uploads/2022/12/EmbeddedImage11-13.jpg)
 
 *Τρωικό (πάνω, μεταγενέστερο του τρωικού πολέμου) και Εβραϊκό νόμισμα*
 
-![](https://archaia-ellada.gr/wp-content/uploads/2022/12/EmbeddedImage12-12.jpg)
+![](/wp-content/uploads/2022/12/EmbeddedImage12-12.jpg)
 
 Bronze coin of Alexander Jannaeus, Hasmonean king of Judah (103-76 BCE), with Hebrew and Greek inscriptions.
 
@@ -269,7 +269,7 @@ Bronze coin of Alexander Jannaeus, Hasmonean king of Judah (103-76 BCE), with He
 
 *Τι να σας κάνω ωρέ Πατριώτες, που τα θέλετε όλα Ελληνικά; Αν οι Σαβίνοι ήταν Σπαρτιάτες, όπως ισχυρίζεστε, τότε οι Σπαρτιάτες ήταν και Ιουδαιοφοίνικες…*
 
-![](https://archaia-ellada.gr/wp-content/uploads/2022/12/EmbeddedImage13-12.jpg)
+![](/wp-content/uploads/2022/12/EmbeddedImage13-12.jpg)
 
 Jewish tomb with a menorah, the seven-armed chandelier. Necropolis of Hierapolis, Turkey. Tumuli, house-shaped tombs, and sarcophagi line both sides of a 2 km long road north of the town. The tombs span several centu- ries from Late Hellenistic (2nd BCE) to Palaeochristian
 
@@ -288,7 +288,7 @@ Jewish tomb with a menorah, the seven-armed chandelier. Necropolis of Hierapolis
 
 Ο Τήλεφος είχε εγκαταλειφθεί μωρό ως *νόθος* στην Ελλάδα για να πεθάνει, και τον περιμάζεψαν τελικά οι Μυσοί, σύμμαχοι των Τρώων. Τον υιοθέτησε ο βασιλιάς τους, και έγινε ηγέτης τους. Δεν θα μπορούσε να υπάρξει χειρότερος εχθρός της Ελλάδας, γιατί είχε και κάθε δίκιο να την μισεί, επιπλέον!
 
-![](https://archaia-ellada.gr/wp-content/uploads/2022/12/EmbeddedImage14-13.jpg)
+![](/wp-content/uploads/2022/12/EmbeddedImage14-13.jpg)
 
 *Επτάφωτη Λυχνία από την Αρχαία Ρώμη*
 
@@ -308,13 +308,13 @@ Jewish tomb with a menorah, the seven-armed chandelier. Necropolis of Hierapolis
 Οι Ρωμαίοι, μάλιστα, ισχυρίζονταν πως αυτοί είχαν αποικίσει την Τρωάδα! Άρα, **υπήρχε σχέση Ρώμης-Τροίας-Κιτίων** πολύ πριν τον Αινεία και τον Τήλεφο, ακόμα και **πολύ πριν το χτίσιμο της *«Αιώνιας πόλης».*** Γι’ αυτό και ο Αινείας εγκαταστάθηκε εκεί, στην αποικία των συμμάχων της Τροίας. Η Ρώμη *–όπως και να λέγονταν τότε στα Εβραϊκά, την γλώσσα που έδωσε το όνομα των Κητίων –* <sup class="fn-ref" data-fn="Αφού είχαν εβραϊκό όνομα, θα είχαν και ανάλογη γλώσσα…" tabindex="0">[42]</sup>
 ήταν εξαρχής Ασιατική αποικία, που έγινε μια σφηκοφωλιά προσανατολισμένη στην Ελλάδα, λυσσασμένη για εκδίκηση της Μητέρας-Συμμάχου-πόλης, της Τροίας. Βλέπουμε πως το αβίαστο ταίριασμα *Σούδας* και *Ομήρου* είναι πολύ λογικότερο από τους άλλους, λεπτομερέστερους και νόθους Μύθους περί Ρώμης.
 
-![](https://archaia-ellada.gr/wp-content/uploads/2022/12/EmbeddedImage15-9.jpg)
+![](/wp-content/uploads/2022/12/EmbeddedImage15-9.jpg)
 
 *Φρυγικός Σκούφος σαν έμβλημα της Γαλλικής Επανάστασης.*
 
-![](https://archaia-ellada.gr/wp-content/uploads/2022/12/EmbeddedImage16-7.jpg)
-![](https://archaia-ellada.gr/wp-content/uploads/2022/12/EmbeddedImage17-6.jpg)
-![](https://archaia-ellada.gr/wp-content/uploads/2022/12/EmbeddedImage-31.jpg)
+![](/wp-content/uploads/2022/12/EmbeddedImage16-7.jpg)
+![](/wp-content/uploads/2022/12/EmbeddedImage17-6.jpg)
+![](/wp-content/uploads/2022/12/EmbeddedImage-31.jpg)
 
 *Αλλη μια απόδειξη τρωικής καταγωγής…*
 

@@ -3,7 +3,7 @@ title: "Η Λατρεία των φιδιών - Εισαγωγή"
 weight: 20
 ---
 
-![](https://archaia-ellada.gr/wp-content/uploads/2022/11/175-4.jpg)
+![](/wp-content/uploads/2022/11/175-4.jpg)
 
 *Ο Δίας, ο Άμμωνας, ο Σέραπις και ο Αγαθοδαίμων σε μια μορφή.*
 

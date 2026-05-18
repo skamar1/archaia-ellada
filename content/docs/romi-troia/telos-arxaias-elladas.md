@@ -5,7 +5,7 @@ weight: 0
 
 *Ερευνα: Δημήτρης Σκουρτέλης*
 
-![](https://archaia-ellada.gr/wp-content/uploads/2022/12/EmbeddedImage1-14-558x1024.jpg)
+![](/wp-content/uploads/2022/12/EmbeddedImage1-14-558x1024.jpg)
 
 Στην Πύλη του (Αυτοκράτορα) Αδριανού, καμάρι (;;;)της Αθήνας
 
@@ -47,7 +47,7 @@ weight: 0
 
 **Η ΥΠΟΤΑΓΗ ΣΤΗ ΡΩΜΗ**
 
-![](https://archaia-ellada.gr/wp-content/uploads/2022/12/EmbeddedImage3-23.jpg)
+![](/wp-content/uploads/2022/12/EmbeddedImage3-23.jpg)
 
 ***“ΑΥΡΗΛΙΑΝ ΑΡΤΕΜΕΙΝ ΘΥΓΑΤΕΡΑ ΠΑΣΙΩΝΟΣ”***
 
@@ -63,7 +63,7 @@ weight: 0
 
 ***του Ελληνικού Έθνους…***
 
-![](https://archaia-ellada.gr/wp-content/uploads/2022/12/EmbeddedImage4-23.jpg)
+![](/wp-content/uploads/2022/12/EmbeddedImage4-23.jpg)
 
 **Π. Εὔφημος κ̣αὶ Τ̣υλλία Σπ̣ένδου̣σα̣, οἱ ἱεραφόροι, καθιέρωσαν |**
 
@@ -83,7 +83,7 @@ weight: 0
 
 **Ο Ρωμαίος ύπατος Φλαμινίνος, που παράσταινε τον ελευθερωτή μας, λατρεύτηκε σε κοινό ναό με τον «Δελφίνιο Απόλλωνα»**, **<sup class="fn-ref" data-fn="Ελευθερουδάκης, λήμμα «Δελφίνιος»" tabindex="0">[1]</sup>**το πατριωτάκι του από την Τροία. *Σαν να λέμε σήμερα, δισυπόστατος ναός του Άη Γιώργη και του Τζωρτζ Μπους, βοήθειά μας. Η κατάληξη των… Σαλαμινομάχων!*
 
-![](https://archaia-ellada.gr/wp-content/uploads/2022/12/EmbeddedImage5-24.jpg)
+![](/wp-content/uploads/2022/12/EmbeddedImage5-24.jpg)
 
 **Οι Περγαμηνοί θεωρούν έναν Ρωμαίο ως κτίστη της πόλης τους.**
 
@@ -109,7 +109,7 @@ weight: 0
 
 ***«Επεί ώσπερ διασύρων των μυρίων εμνημόνευσας Γραικών ότι μεν και υμείς εντεύθεν γεγόνατε και τα πλείστα της Ιταλίας ώκησαν οι Γραικοί…»*** **<sup class="fn-ref" data-fn="Ιουλιανού, «Συμπόσιον ή Κρόνεια» 22-25" tabindex="0">[3]</sup>***(μνημόνευσες τους δέκα χιλιάδες Γραικούς σα να ήθελες να με κοροϊδέψεις, αν και εσείς από δω κατάγεστε και το μεγαλύτερο κομμάτι της Ιταλίας κατοικήθηκε από Γραικούς)*
 
-![](https://archaia-ellada.gr/wp-content/uploads/2022/12/EmbeddedImage6-24.jpg)
+![](/wp-content/uploads/2022/12/EmbeddedImage6-24.jpg)
 
 ***Ο Αυτοκράτορας Αδριανός τιμάται ως θεός από τους Εφέσιους***
 
@@ -127,7 +127,7 @@ weight: 0
 
 Προτιμάτε το «ηλίθιους»; Δεν με πολυνιάζει!
 
-![](https://archaia-ellada.gr/wp-content/uploads/2022/12/EmbeddedImage8-21.jpg)
+![](/wp-content/uploads/2022/12/EmbeddedImage8-21.jpg)
 
 **“Θα μιλήσουν οι πέτρες”.**
 
@@ -147,7 +147,7 @@ weight: 0
 
 Έπρεπε να περάσουν πάνω από χίλια χρόνια για να τολμήσουμε να χρησιμοποιήσουμε ξανά το εξευτελισμένο από εμάς τους ίδιους όνομά μας. Και να μην ξεχνάμε πως **ήταν οι Βυζαντινοί που το ξανάφεραν στην επιφάνεια…**
 
-![](https://archaia-ellada.gr/wp-content/uploads/2022/12/EmbeddedImage9-17.jpg)
+![](/wp-content/uploads/2022/12/EmbeddedImage9-17.jpg)
 
 **Ένας άγγελος διώχνει την Συναγωγή, που συμβολίζεται από την γυναίκα δεξιά,**
 
@@ -157,7 +157,7 @@ weight: 0
 
 **Τα ανθελληνικά σχέδια της Εκκλησίας αποκαλύπτονται, επιτέλους.**
 
-![](https://archaia-ellada.gr/wp-content/uploads/2022/12/EmbeddedImage10-13.jpg)
+![](/wp-content/uploads/2022/12/EmbeddedImage10-13.jpg)
 
 **Αν ο Νεμέριος Καστρίκιος Λεύκιος Πακωνιανός κλπ**
 
@@ -183,12 +183,12 @@ weight: 0
 
 Οι Ρωμαίοι έλεγαν πως είναι απόγονοι του Τρώα Αινεία, και οι Πέρσες, σύμφωνα με τον Ηρόδοτο, είχαν επωμιστεί την εκδίκηση όλων των δεινών που επέφεραν οι Έλληνες στην Ασία, ξεκινώντας από την αρπαγή της Ευρώπης και της Μήδειας και καταλήγοντας στην άλωση της Τροίας. Όλοι οι εχθροί της Ελλάδας από την αρχή της καταγραμμένης ιστορίας ταυτίζονταν με τους Τρώες.
 
-![](https://archaia-ellada.gr/wp-content/uploads/2022/12/EmbeddedImage11-14.jpg)
+![](/wp-content/uploads/2022/12/EmbeddedImage11-14.jpg)
 
 **Αθήνα….**
 
-![](https://archaia-ellada.gr/wp-content/uploads/2022/12/EmbeddedImage-35.jpg)
-![](https://archaia-ellada.gr/wp-content/uploads/2022/12/EmbeddedImage14-14.jpg)
+![](/wp-content/uploads/2022/12/EmbeddedImage-35.jpg)
+![](/wp-content/uploads/2022/12/EmbeddedImage14-14.jpg)
 
 Επάνω:
 

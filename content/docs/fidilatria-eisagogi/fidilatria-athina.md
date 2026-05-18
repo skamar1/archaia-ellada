@@ -17,60 +17,60 @@ weight: 0
 
 # Βίντεο: Η λατρεία των φιδιών στην αρχαία Ελλάδα
 
-![](https://archaia-ellada.gr/wp-content/uploads/2022/12/EmbeddedImage4-4.jpg)
+![](/wp-content/uploads/2022/12/EmbeddedImage4-4.jpg)
 
 Η θεά Αθηνά
 
-![](https://archaia-ellada.gr/wp-content/uploads/2022/12/EmbeddedImage5-6.jpg)
+![](/wp-content/uploads/2022/12/EmbeddedImage5-6.jpg)
 
 Η θεά Αθηνά
 
-![](https://archaia-ellada.gr/wp-content/uploads/2022/12/EmbeddedImage6-5.jpg)
+![](/wp-content/uploads/2022/12/EmbeddedImage6-5.jpg)
 
 Η θεά Αθηνά
 
-![](https://archaia-ellada.gr/wp-content/uploads/2022/12/EmbeddedImage7-5.jpg)
+![](/wp-content/uploads/2022/12/EmbeddedImage7-5.jpg)
 
 ΙΕΡΟ ΦΙΔΙ ΤΥΛΙΓΜΕΝΟ ΣΤΟΝ ΚΟΡΜΟ ΤΗΣ ΙΕΡΗΣ ΕΛΙΑΣ. ΕΜΒΛΗΜΑ ΤΗΣ ΠΟΛΗΣ ΤΗΣ ΑΘΗΝΑΣ
 
 Το έμβλημα της πόλης. Φίδι γύρω από λιόδεντρο
 
-![](https://archaia-ellada.gr/wp-content/uploads/2022/12/EmbeddedImage8-5.jpg)
+![](/wp-content/uploads/2022/12/EmbeddedImage8-5.jpg)
 
 Η θεά Αθηνά
 
-![](https://archaia-ellada.gr/wp-content/uploads/2022/12/EmbeddedImage9-5.jpg)
+![](/wp-content/uploads/2022/12/EmbeddedImage9-5.jpg)
 
 Μνημείο νεκρού
 
-![](https://archaia-ellada.gr/wp-content/uploads/2022/12/EmbeddedImage11-4.jpg)
+![](/wp-content/uploads/2022/12/EmbeddedImage11-4.jpg)
 
 Ο Κέκροπας, η Αθηνά και ο Εριχθόνιος
 
-![](https://archaia-ellada.gr/wp-content/uploads/2022/12/EmbeddedImage5-27.jpg)
+![](/wp-content/uploads/2022/12/EmbeddedImage5-27.jpg)
 
 Ο Κέκροπας
 
-![](https://archaia-ellada.gr/wp-content/uploads/2022/12/EmbeddedImage13-3.jpg)
-![](https://archaia-ellada.gr/wp-content/uploads/2022/12/EmbeddedImage14-4.jpg)
+![](/wp-content/uploads/2022/12/EmbeddedImage13-3.jpg)
+![](/wp-content/uploads/2022/12/EmbeddedImage14-4.jpg)
 
 Ο Κέκροπας
 
-![](https://archaia-ellada.gr/wp-content/uploads/2022/12/EmbeddedImage15-1.jpg)
+![](/wp-content/uploads/2022/12/EmbeddedImage15-1.jpg)
 
 ΑΓΑΛΜΑΤΑ ΦΙΔΑΝΘΡΩΠΩΝ ΣΤΟ ΚΕΝΤΡΟ ΤΗΣ ΑΡΧΑΙΑΣ ΑΘΗΝΑΣ
 
 Το διοικητικό κέντρο της αρχαίας Αθήνας. Αρχαία Αγορά
 
-![](https://archaia-ellada.gr/wp-content/uploads/2022/12/EmbeddedImage16-1-324x1024.jpg)
+![](/wp-content/uploads/2022/12/EmbeddedImage16-1-324x1024.jpg)
 
 Φίδι-ήρωας. Βρέθηκε στο Παγκράτι
 
-![](https://archaia-ellada.gr/wp-content/uploads/2022/12/EmbeddedImage10-2.jpg)
+![](/wp-content/uploads/2022/12/EmbeddedImage10-2.jpg)
 
 Εμβλήματα της θεάς Αθηνάς
 
-![](https://archaia-ellada.gr/wp-content/uploads/2022/12/EmbeddedImage17.jpg)
+![](/wp-content/uploads/2022/12/EmbeddedImage17.jpg)
 
 ΙΕΡΟ ΦΙΔΙ ΤΥΛΙΓΜΕΝΟ ΣΤΟΝ ΚΟΡΜΟ ΤΗΣ ΙΕΡΗΣ ΕΛΙΑΣ. ΕΜΒΛΗΜΑ ΤΗΣ ΠΟΛΗΣ ΤΗΣ ΑΘΗΝΑΣ
 
@@ -98,7 +98,7 @@ weight: 0
 
 Ας πω εδώ μόνο πως «***Δράκων ταύρου πατήρ***» ήταν μια προσωνυμία του Διονύσου. Με αυτόν παντρεύονταν συμβολικά κάθε χρόνο η σύζυγος του «***άρχοντος βασιλέως***»*[αιρετό αξίωμα]* ανανεώνοντας την φιδίσια καταγωγή των Αθηναίων. Η τελετή γίνονταν στις 11-12 Ανθεστηριώνος μηνός, κατά τη γιορτή των «***Χοών***» στο ιερό του θεού στις Λίμνες, που άνοιγε μόνο εκείνο το βράδυ, και με τη συμμετοχή έντεκα *[ή δεκατεσσάρων]* ιερειών.
 
-![](https://archaia-ellada.gr/wp-content/uploads/2022/12/EmbeddedImage18.jpg)
+![](/wp-content/uploads/2022/12/EmbeddedImage18.jpg)
 
 Το σύμβολο της Αθήνας -Φίδι σε ελιά- σε άγαλμα ήρωα ή νεκρού.
 
@@ -126,15 +126,15 @@ weight: 0
 
 Είναι χαρακτηριστικό πως αυτή η γνωστότατη παράσταση δεν δημιουργήθηκε στις αρχές του Χριστιανισμού, μια που η έννοια του φιδιού ήταν ακόμα γνωστή. Είναι επίσης πιθανό πως η μεταμόρφωση του φιδιού σε δράκο με πόδια, έγινε για να μην θιχτούν τα… αισθήματα του λαού, που κάτι πρέπει να θυμόταν ακόμη. Σε πολύ αρχαίες όμως απεικονίσεις του Αη Γιώργη, στο Γεράκι, στην Αρμενία, κλπ. μάχεται με κανονικό φίδι.. Η παράσταση εμφανίστηκε μετά τον 10ο αι. μΧ και έγινε δημοφιλής επί Τουρκοκρατίας, πάντα βασισμένη στην παράσταση του ***«Ήρωος»**,* και δεκάδες απεικονίσεις έφιππων που καταβάλλουν πεζούς εχθρούς στην αρχαία τέχνη.
 
-![](https://archaia-ellada.gr/wp-content/uploads/2022/12/EmbeddedImage19.jpg)
+![](/wp-content/uploads/2022/12/EmbeddedImage19.jpg)
 
 Το σχόλιο και η φωτογραφία από την “ΔΟΜΗ”
 
 ακολουθούν ανάλογες αναπαραστάσεις, από το τέλος της αρχαιότητας
 
-![](https://archaia-ellada.gr/wp-content/uploads/2022/12/EmbeddedImage20.jpg)
-![](https://archaia-ellada.gr/wp-content/uploads/2022/12/EmbeddedImage21.jpg)
-![](https://archaia-ellada.gr/wp-content/uploads/2022/12/EmbeddedImage22.jpg)
+![](/wp-content/uploads/2022/12/EmbeddedImage20.jpg)
+![](/wp-content/uploads/2022/12/EmbeddedImage21.jpg)
+![](/wp-content/uploads/2022/12/EmbeddedImage22.jpg)
 
 Τον Μεσαίωνα, ο “Ήρως” συνέχισε να λατρεύεται, όχι πλέον έφιππος, μια που ο Αη-Γιώργης τον είχε υποσκελίσειι. Παράσταση από την Αθήνα του 11ου αι μ.Χ. Μια πόλη που έχουν βαλθεί να μας πείσουν πως το Βυζάντιο της ξερίζωσε την αρχαία παράδοση, επειδή δεν μίλαγαν εκεί στην… Αττική διάλεκτο…
 
@@ -180,7 +180,7 @@ weight: 0
 
 Αλλωστε, η κατάργηση της Μητριαρχίας αναφέρεται και σε ένα Μύθο που εξηγεί πως οι Αθηναίοι, επί της βασιλείας των Ερεχθειδών, επέλεξαν την Αθηνά και όχι τον Ποσειδώνα για Πολιούχο. Όλες οι γυναίκες ψήφισαν Αθηνά, και επικράτησαν με μία ψήφο. Ο Ποσειδώνας εκδικήθηκε πλημμυρίζοντας την Αττική. Τότε οι άντρες αφαίρεσαν από τις γυναίκες τα πολιτικά δικαιώματα, και σταμάτησαν να ονομάζουν τα παιδιά με το όνομα της μητέρας.
 
-![](https://archaia-ellada.gr/wp-content/uploads/2022/12/EmbeddedImage23.jpg)
+![](/wp-content/uploads/2022/12/EmbeddedImage23.jpg)
 
 Σκηνή από τα Ελευσίνια Μυστήρια. Η Περσεφόνη κρατά φίδι
 
@@ -210,7 +210,7 @@ weight: 0
 
 ***Αγαλματίδια του Γλύκωνα βρέθηκαν μέχρι και κάτω από την Ακρόπολη!!!***
 
-![](https://archaia-ellada.gr/wp-content/uploads/2022/12/EmbeddedImage24.jpg)
+![](/wp-content/uploads/2022/12/EmbeddedImage24.jpg)
 
 **Βιβλιογραφία**
 

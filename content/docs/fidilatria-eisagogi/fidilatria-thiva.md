@@ -3,7 +3,7 @@ title: "Η ΛΑΤΡΕΙΑ ΤΩΝ ΦΙΔΙΩΝ - ΦΙΔΙΑ ΣΤΗ ΘΗΒΑ"
 weight: 30
 ---
 
-![](https://archaia-ellada.gr/wp-content/uploads/2022/12/EmbeddedImage-24.jpg)
+![](/wp-content/uploads/2022/12/EmbeddedImage-24.jpg)
 
 ##
 
