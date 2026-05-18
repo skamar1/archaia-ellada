@@ -1,6 +1,6 @@
 ---
 title: "Ο ΦΡΥΓΑΣ ΔΙΑΣ"
-weight: 50
+weight: 240
 bookCollapseSection: true
 ---
 

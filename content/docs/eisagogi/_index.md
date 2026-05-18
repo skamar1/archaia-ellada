@@ -1,6 +1,6 @@
 ---
 title: "ΕΙΣΑΓΩΓΗ. ΣΚΟΠΟΙ ΚΑΙ ΠΛΑΙΣΙΟ ΤΗΣ ΕΡΕΥΝΑΣ"
-weight: 0
+weight: 2
 bookCollapseSection: true
 ---
 

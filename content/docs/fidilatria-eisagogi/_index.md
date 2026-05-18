@@ -1,6 +1,6 @@
 ---
 title: "Η Λατρεία των φιδιών - Εισαγωγή"
-weight: 20
+weight: 50
 bookCollapseSection: true
 ---
 

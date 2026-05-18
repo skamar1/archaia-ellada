@@ -1,6 +1,6 @@
 ---
 title: "Το ιερατείο στην αρχαία Ελλάδα - Οι μάντεις"
-weight: 80
+weight: 70
 bookCollapseSection: true
 ---
 

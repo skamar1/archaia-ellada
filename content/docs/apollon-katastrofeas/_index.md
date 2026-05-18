@@ -1,6 +1,6 @@
 ---
 title: "ΑΠΟΛΛΩΝ Ο ΚΑΤΑΣΤΡΟΦΕΑΣ ΘΕΟΣ"
-weight: 40
+weight: 30
 bookCollapseSection: true
 ---
 

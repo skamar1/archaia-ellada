@@ -1,6 +1,6 @@
 ---
 title: "ΔΩΔΩΝΗ, ΤΟ ΑΡΧΑΙΟΤΕΡΟ ΕΛΛΗΝΙΚΟ ΜΑΝΤΕΙΟ"
-weight: 60
+weight: 40
 bookCollapseSection: true
 ---
 
